@@ -1,0 +1,2 @@
+# Social-Network-Data-Mining-and-Sentiment-Attitude-Prediction-via-SGCN
+Developed custom aggregation operators based on the SGCN framework by integrating Structural Balance Theory (e.g., "a friend of a friend is a friend" and "an enemy of an enemy is a friend"). This approach effectively resolved the feature cancellation issue inherent in traditional GNNs, which are typically incapable of processing negative edges
