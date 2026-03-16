@@ -2,9 +2,6 @@
 
 This repository contains the implementation of "Multi-view Signed Graph Attention Networks (MvSGATs)" and other signed graph representation learning methods for a Data Mining project.
 
-## GitHub Repository
-- https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs.git (git function)
-- https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs/tree/main (Open-visit URL)
 
 ## Project Description
 The project focuses on signed link prediction and node embedding in signed social networks. It includes implementations of:
