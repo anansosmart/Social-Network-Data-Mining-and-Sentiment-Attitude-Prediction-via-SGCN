@@ -3,15 +3,15 @@
 This repository contains the implementation of "Multi-view Signed Graph Attention Networks (MvSGATs)" and other signed graph representation learning methods for a Data Mining project.
 
 ## GitHub Repository
-- https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs.git (git function)
-- https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs/tree/main (Open-visit URL)
+https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs.git
+https://github.com/KevinKwank/DM-Proj-Group1-MvSGATs/tree/main
 
 ## Project Description
 The project focuses on signed link prediction and node embedding in signed social networks. It includes implementations of:
 - **MvSGAT**: Multi-view Signed Graph Attention Network.
-- **SGCN**: Signed Graph Convolutional Network. https://github.com/benedekrozemberczki/SGCN
+- **SGCN**: Signed Graph Convolutional Network.
 - **SiGAT**: Signed Graph Attention Network.
-- **BESIDE**: Bridging Social Theory and Deep Learning. https://github.com/yqc01/BESIDE
+- **BESIDE**: Bridging Social Theory and Deep Learning.
 
 ## Main Directories
 - `MvSGAT/`: Implementation of the proposed MvSGAT model.
@@ -21,12 +21,3 @@ The project focuses on signed link prediction and node embedding in signed socia
 
 ## Requirements
 Please refer to the `requirements.txt` or individual model directories for dependency information.
-
-## Possible Bonus
-- We develop a new SOTA.
-- We collect our own data.
-
-## Dataset URL
-- **WikiRaF**: https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
-- **Reddit Hyperlink**: https://snap.stanford.edu/data/soc-RedditHyperlinks.html
-- **Bitcoin-ALPHA**: https://snap.stanford.edu/data/wiki-RfA.html
